@@ -1,4 +1,48 @@
 # Incident Response Agent
+
+> An AI-powered SRE assistant built using Google AI Studio and Gemini.
+
+## 🚀 Live Demo
+
+[Open Incident Response Agent](YOUR_DEPLOYED_APP_LINK)
+
+## 🖥️ Application Preview
+
+![Incident Response Agent Dashboard](YOUR_SCREENSHOT_LINK)
+
+## ✨ Features
+
+- AI-powered incident analysis
+- Persistent incident memory
+- Historical incident retrieval
+- Vector-based similarity search
+- Incident severity tracking
+- Interactive runbooks
+- Multi-stage remediation recommendations
+- Post-mortem learning
+- SRE dashboard
+
+## 🛠️ Tech Stack
+
+- Google AI Studio
+- Gemini
+- TypeScript
+- React
+- Vite
+- Vector Retrieval
+- AI/RAG
+
+## 🤖 Built With
+
+This project was designed and developed using Google AI Studio with Gemini-powered AI capabilities.
+
+## ▶️ Running Locally
+
+```bash
+npm install
+npm run dev
+
+# Incident Response Agent
 > **Autonomous AI SRE Assistant with Organizational Memory, Dense Vector Retrieval, and Interactive Runbook Remediation**
 
 ---
